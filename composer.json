@@ -1,0 +1,16 @@
+{
+    "name": "mutahir-shah/bwl",
+    "description": "Service apis for whitelable in slim framework", 
+     "authors": [
+        {
+            "name": "Mutahir Shah",
+            "email": "mutahiricup@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "bwlclasses\\": "src"
+        }
+    } 
+
+}
